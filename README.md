@@ -7,6 +7,7 @@ This program allows the user to specify a die with n number of sides (in the con
 This program contains two classes: "Die.java" and "Main.java". 
 
 ## "Die.java" 
+### Methods
 *   private int dieValue, dieFaces: private variables to hold the value of the die and the number of faces the die has.
 *  private Random random: Random object created to randomly "roll" the die.
 *  Die(int faces): the constructor for Die.java and initializes the value of the die and how many faces the die has. 
