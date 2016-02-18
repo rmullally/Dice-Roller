@@ -18,3 +18,9 @@ This program contains two classes: "Die.java" and "Main.java".
 ##"Main.java" 
 In the Main class, I create a new Die object to simulate the roll of a die. 
 
+#How to run Die.java
+I assume you have the Java Development Kit installed on your machine, so you will just run this like any other java program: 
+  1.  Open the command prompt in the directory containing "Main.java" and "Sorts.java". 
+  2.  Compile the Main class by typing: "javac Main.java" and hit enter in the command prompt. 
+  3.  Now that the program is compiled, run it by typing "java Main" and hit enter.
+
