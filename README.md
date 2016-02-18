@@ -7,7 +7,7 @@ This program allows the user to specify a die with n number of sides (in the con
 This program contains two classes: "Die.java" and "Main.java". 
 
 ## "Die.java" 
-*  private Random random: Random object to randomly "roll" the value of the die. 
+*  private Random random: Random object created to randomly "roll" the die. 
 *  private int dieValue: dieFaces: private variables to hold the value of the die and the number of faces the die has.
 *  Die(int faces): the constructor for Die.java and initializes the value of the die and how many faces the die has. 
 *  int roll(): sets (and returns) the face value to a uniform random number between 1 and the number of faces. 
@@ -20,7 +20,7 @@ In the Main class, I create a new Die object to simulate the roll of a die.
 
 #How to run Die.java
 I assume you have the Java Development Kit installed on your machine, so you will just run this like any other java program: 
-  1.  Open the command prompt in the directory containing "Main.java" and "Sorts.java". 
+  1.  Open the command prompt in the directory containing "Main.java" and "Die.java". 
   2.  Compile the Main class by typing: "javac Main.java" and hit enter in the command prompt. 
   3.  Now that the program is compiled, run it by typing "java Main" and hit enter.
 
