@@ -25,3 +25,7 @@ I assume you have the Java Development Kit installed on your machine, so you wil
   2.  Compile the Main class by typing: "javac Main.java" and hit enter in the command prompt. 
   3.  Now that the program is compiled, run it by typing "java Main" and hit enter.
 
+##Input/Output
+Die d = new Die(dieType[0]); would give us a d4. Change the index of the array to get different sided die. This will output something like d4 = 3, with 3 being the value rolled on a 4 sided die.
+
+
